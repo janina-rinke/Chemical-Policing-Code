@@ -1,7 +1,7 @@
 
 #########################################################
-# R-Script to calculate the Linear Discriminant Analysis
-# Worker Policing & Chemotypes in *C. maculatus*
+# R-Script to conduct the Linear Discriminant Analysis
+# Worker Policing & Chemotypes in C. maculatus
 # Buellesbach et al., 2022
 #########################################################
 

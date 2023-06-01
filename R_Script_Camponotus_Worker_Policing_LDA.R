@@ -1,9 +1,13 @@
 
-#########################################################
-# R-Script to conduct the Linear Discriminant Analysis
-# Worker Policing & Chemotypes in C. maculatus
-# Buellesbach et al., 2022
-#########################################################
+################################################################################################################################
+# Evolutionary Ecology, 2023
+
+# Conserved worker policing in African carpenter ants with drastically different egg chemotypes 
+# Jan Buellesbach, Janina Rinke, Leonie Reuter, Jurian M. Thomas, Vivien Hartmann, Marius Pohl, Jürgen Gadau and Ulrich R. Ernst
+
+
+# R-Script to conduct the Linear Discriminant Analysis (Fig. 6)
+################################################################################################################################
 
 
 ############ Start completely fresh ####################
